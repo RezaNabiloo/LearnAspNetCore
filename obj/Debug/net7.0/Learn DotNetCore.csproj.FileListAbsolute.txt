@@ -1,0 +1,31 @@
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\appsettings.Development.json
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\appsettings.json
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\Learn DotNetCore.staticwebassets.runtime.json
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\Learn DotNetCore.exe
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\Learn DotNetCore.deps.json
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\Learn DotNetCore.runtimeconfig.json
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\Learn DotNetCore.dll
+D:\MyApplications\Learn DotNetCore\bin\Debug\net7.0\Learn DotNetCore.pdb
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.csproj.AssemblyReference.cache
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.AssemblyInfoInputs.cache
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.AssemblyInfo.cs
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.csproj.CoreCompileInputs.cache
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.MvcApplicationPartsAssemblyInfo.cache
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.RazorAssemblyInfo.cache
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.RazorAssemblyInfo.cs
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\staticwebassets\msbuild.Learn DotNetCore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\staticwebassets\msbuild.build.Learn DotNetCore.props
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Learn DotNetCore.props
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Learn DotNetCore.props
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\staticwebassets.pack.json
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\staticwebassets.build.json
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\staticwebassets.development.json
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\scopedcss\bundle\Learn DotNetCore.styles.css
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\scopedcss\projectbundle\Learn DotNetCore.bundle.scp.css
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.dll
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\refint\Learn DotNetCore.dll
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.pdb
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\Learn DotNetCore.genruntimeconfig.cache
+D:\MyApplications\Learn DotNetCore\obj\Debug\net7.0\ref\Learn DotNetCore.dll
