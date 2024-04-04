@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\MyEshop.csproj": {}
+    "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj": {}
   },
   "projects": {
-    "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\MyEshop.csproj": {
+    "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\MyEshop.csproj",
+        "projectUniqueName": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj",
         "projectName": "MyEshop",
-        "projectPath": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\MyEshop.csproj",
+        "projectPath": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj",
         "packagesPath": "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\",
-        "outputPath": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\obj\\",
+        "outputPath": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

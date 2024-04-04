@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v5OBby0SoldtRmj1P+frkLuvW0ne+Ec+GOsGE34gPj8U4ubYUzyndexxvSpBcgo1x3L2La564kVJjLwzYqrQmA==",
+  "dgSpecHash": "438ToTCjxHxbh80ow9F0EJFsY5pGTtSCO85IfRm7q2SbyGGGl7+ay8eLOHgoF/7H/7NYGKYm+DhF5dLsaJYoAA==",
   "success": true,
-  "projectFilePath": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\MyEshop.csproj",
+  "projectFilePath": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
