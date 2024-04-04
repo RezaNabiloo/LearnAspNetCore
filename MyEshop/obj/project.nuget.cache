@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "932YidUw77xHG+L+PwxEjON0mRzQxx0fySLOKPJU/2XnG1dAOCcYMdqLLz0YoIJR+XZVNo/p23tm5CRtQpZy0w==",
+  "dgSpecHash": "v5OBby0SoldtRmj1P+frkLuvW0ne+Ec+GOsGE34gPj8U4ubYUzyndexxvSpBcgo1x3L2La564kVJjLwzYqrQmA==",
   "success": true,
   "projectFilePath": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\MyEshop.csproj",
   "expectedPackageFiles": [
@@ -82,6 +82,7 @@
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.17\\microsoft.entityframeworkcore.design.7.0.17.nupkg.sha512",
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.17\\microsoft.entityframeworkcore.relational.7.0.17.nupkg.sha512",
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.17\\microsoft.entityframeworkcore.sqlserver.7.0.17.nupkg.sha512",
+    "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.17\\microsoft.entityframeworkcore.tools.7.0.17.nupkg.sha512",
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

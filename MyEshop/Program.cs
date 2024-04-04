@@ -1,3 +1,7 @@
+using Microsoft.EntityFrameworkCore;
+using MyEshop.Data;
+using System.Drawing;
+
 namespace MyEshop
 {
     public class Program
@@ -8,6 +12,12 @@ namespace MyEshop
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            #region DbContext
+            builder.Services.AddDbContext<MyEshopContext>(options =>
+            options.UseSqlServer("Data Source=.; Initial Catalog  = EshopCore_DB; Integrated Security = true; TrustServerCertificate=True"));
+            
+            #endregion
 
             var app = builder.Build();
 

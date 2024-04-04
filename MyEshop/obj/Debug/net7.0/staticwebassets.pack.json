@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\wwwroot\\images\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\3.jpg"
+    },
+    {
       "Id": "D:\\MyApplications\\Projects\\ASP.NET Core\\MyEshop\\MyEshop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
