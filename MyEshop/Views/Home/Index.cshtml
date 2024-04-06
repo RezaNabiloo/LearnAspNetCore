@@ -10,18 +10,19 @@
 <div class="row">
     @foreach (var item in Model)
     {
-        <div class="col-3">
-            <div class="card">
-                <img src="~/images/@(item.Id).jpg" width="160" height="160" class="card-img-top img-thumbnail"/>
-                <div class="card-body">
-                    <h5 class="card-title">@item.Name</h5>
-                    <a asp-action="Detail"
-                        asp-controller="Home"
-                        asp-route-id="@item.Id"
-                        >نمایش جزئیات</a>
-                </div>
-            </div>
-        </div>
+        @*<div class="col-3">
+    <div class="card">
+    <img src="~/images/@(item.Id).jpg" width="160" height="160" class="card-img-top img-thumbnail"/>
+    <div class="card-body">
+    <h5 class="card-title">@item.Name</h5>
+    <a asp-action="Detail"
+    asp-controller="Home"
+    asp-route-id="@item.Id"
+    >نمایش جزئیات</a>
+    </div>
+    </div>
+    </div>*@
 
+        <partial name="_BoxProduct" model="@item"></partial>
     }
 </div>

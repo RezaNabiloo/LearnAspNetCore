@@ -1,0 +1,17 @@
+﻿@model IEnumerable<ShowGroupViewModel>
+@{
+    ViewData["Title"] = "ProductGroupComponent";
+}
+
+ <h1 class="display-6">گروه بندی محصولات</h1>
+
+ <ul class="list-group">
+     @foreach (var item in Model)
+    {
+        <li class="list-group-item d-flex justify-content-beteen align-items-center">
+            <a href="/Group/@item.Id/@item.Name">@item.Name</a>
+            <span class="badge badge-primary badge-pill">@item.ProductCount</span>
+        </li>
+    }
+ </ul>
+

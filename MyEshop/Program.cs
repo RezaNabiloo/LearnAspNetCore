@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using MyEshop.Data;
 using System.Drawing;
 
@@ -16,7 +17,9 @@ namespace MyEshop
             #region DbContext
             builder.Services.AddDbContext<MyEshopContext>(options =>
             options.UseSqlServer("Data Source=.; Initial Catalog  = EshopCore_DB; Integrated Security = true; TrustServerCertificate=True"));
-            
+            //options.UseSqlServer("Password = mmsrn; Persist Security Info = True; User ID = sa; Data Source=.; Initial Catalog  = EshopCore_DB; Integrated Security = false; TrustServerCertificate=True"));
+            //Password = mmsrn; Persist Security Info = True; User ID = sa; Initial Catalog = EasyProject_Valid; Data Source =.; MultipleActiveResultSets = True" providerName="System.Data.SqlClient" 
+
             #endregion
 
             var app = builder.Build();

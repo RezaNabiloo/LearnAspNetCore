@@ -1,359 +1,359 @@
 {
   "Files": [
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyEshop.bundle.scp.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyEshop.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyEshop.bundle.scp.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\css\\site.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\favicon.ico",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\images\\1.jpg",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\images\\1.jpg",
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\images\\2.jpg",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\images\\2.jpg",
       "PackagePath": "staticwebassets\\images\\2.jpg"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\images\\3.jpg",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\images\\3.jpg",
       "PackagePath": "staticwebassets\\images\\3.jpg"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\js\\site.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap-rtl.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\custom.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\css\\custom.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\css\\custom.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap4\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap4\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Projects\\LearnAspNetCore\\MyEshop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

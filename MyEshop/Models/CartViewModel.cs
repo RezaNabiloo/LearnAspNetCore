@@ -7,7 +7,7 @@
             CartItems = new List<CartItem>();
         }
         public List<CartItem> CartItems { get; set; }
-        public decimal PrderTotal { get; set; }
+        public decimal OrderTotal { get; set; }
 
     }
 }

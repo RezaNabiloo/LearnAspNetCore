@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj": {}
+    "D:\\Projects\\LearnAspNetCore\\MyEshop\\MyEshop.csproj": {}
   },
   "projects": {
-    "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj": {
+    "D:\\Projects\\LearnAspNetCore\\MyEshop\\MyEshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj",
+        "projectUniqueName": "D:\\Projects\\LearnAspNetCore\\MyEshop\\MyEshop.csproj",
         "projectName": "MyEshop",
-        "projectPath": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\MyEshop.csproj",
-        "packagesPath": "C:\\Users\\r.nabiloo.TITZ\\.nuget\\packages\\",
-        "outputPath": "D:\\MyApplications\\LearnAspNetCore\\MyEshop\\obj\\",
+        "projectPath": "D:\\Projects\\LearnAspNetCore\\MyEshop\\MyEshop.csproj",
+        "packagesPath": "C:\\Users\\R.Nabiloo\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\LearnAspNetCore\\MyEshop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\r.nabiloo.TITZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\R.Nabiloo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
