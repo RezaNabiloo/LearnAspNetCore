@@ -1,0 +1,14 @@
+﻿@using MyEshop.Data.Repositories
+@inject IGroupRepository _groupRepository
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<li class="nav-item dropdown"> 
+    <a class="nav-item dropdown-toggle" data-toggle="dropdown" id="dp09" aria-haspopup="true" aria-expanded="true">گروه بندی</a>
+    <div class="dropdown-menu" aria-labelledby="dp09"> 
+        @foreach (var item in _groupRepository.GetAllCategories())
+        {
+            <a class="dropdown-item" href="/Group/@item.Id/@item.Name">@item.Name</a>
+        }
+    </div>
+</li>

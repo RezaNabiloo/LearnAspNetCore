@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - MyEshop</title>
     @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />*@
-    <link href="~/lib/bootstrap4/css/bootstrap-rtl.css" rel="stylesheet" />    
+    <link href="~/lib/bootstrap4/css/bootstrap-rtl.css" rel="stylesheet" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/MyEshop.styles.css" asp-append-version="true" />
 </head>
@@ -26,6 +26,26 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="ContactUs">تماس با ما</a>
                         </li>
+                        <partial name="_Groups"></partial>
+
+                        @if (User.Identity.IsAuthenticated)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link">@User.Identity.Name خوش آمدید</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Logout">خروج</a>
+                            </li>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Register">ثبت نام</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Account" asp-action="Login">ورود به سایت</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>
@@ -41,7 +61,7 @@
                     @RenderBody()
                 </div>
             </div>
-            
+
         </main>
     </div>
 

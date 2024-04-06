@@ -16,6 +16,7 @@ namespace MyEshop.Data
         public DbSet<Product> Products { get; set; }
         public DbSet<CategoryToProduct> CategoryTpProducts { get; set; }
         public DbSet<Item> Items{ get; set; }
+        public DbSet<User> Users { get; set; }
 
 
         #region Seed Data

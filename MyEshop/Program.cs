@@ -1,6 +1,8 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 using MyEshop.Data;
+using MyEshop.Data.Repositories;
 using System.Drawing;
 
 namespace MyEshop
@@ -22,6 +24,28 @@ namespace MyEshop
 
             #endregion
 
+            #region IoC
+            builder.Services.AddScoped<IGroupRepository, GroupRepository>();
+            builder.Services.AddScoped<IUserRepository, UserRepository>();
+            //builder.Services.AddTransient<IGroupRepository, GroupRepository>();
+            //builder.Services.AddSingleton<IGroupRepository, GroupRepository>();
+            #endregion IoC
+
+
+
+            #region Authentication
+            builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(option =>
+                {
+                    option.LoginPath = "/Account/Login";
+                    option.LogoutPath = "/Account/Logout";
+                    option.ExpireTimeSpan = TimeSpan.FromDays(10);
+                }
+                );
+
+            #endregion Authentication
+
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -32,7 +56,7 @@ namespace MyEshop
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(
