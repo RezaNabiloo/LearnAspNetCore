@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
 namespace MyEshop.Models
@@ -11,6 +12,7 @@ namespace MyEshop.Models
         [Required(ErrorMessage ="لطفا {0} را وارد کنید.")]
         [EmailAddress]
         [MaxLength(50)]
+        [Remote("VerifyEmail","Account")]
         public string Email { get; set; }
 
         [Display(Name ="کلمه عبور")]

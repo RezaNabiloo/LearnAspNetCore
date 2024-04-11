@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/lib/bootstrap4/css/bootstrap-rtl.css" rel="stylesheet" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MyEshop.styles.css" asp-append-version="true" />
+    <link href="~/css/admin.css" rel="stylesheet" />
+
+</head>
+<body dir="rtl">
+    <header>
+        <a href="/">Admin</a>
+    </header>
+    <div class="row">
+        <div class="col-md-2">
+        <nav>
+            <ul>
+                <li>
+                    <a class="nav-item">Home</a>
+                </li>
+            </ul>
+        </nav>
+        </div>
+        <div class="col-md-10">
+        @RenderBody()
+        </div>
+    </div>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

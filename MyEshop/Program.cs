@@ -4,6 +4,8 @@ using Microsoft.Extensions.Options;
 using MyEshop.Data;
 using MyEshop.Data.Repositories;
 using System.Drawing;
+using System.Drawing.Text;
+using System.Security.Claims;
 
 namespace MyEshop
 {
@@ -15,6 +17,10 @@ namespace MyEshop
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            // Add Razor Pages
+            builder.Services.AddRazorPages();
+
 
             #region DbContext
             builder.Services.AddDbContext<MyEshopContext>(options =>
@@ -46,12 +52,14 @@ namespace MyEshop
             #endregion Authentication
 
 
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())
             {
                 app.UseExceptionHandler("/Home/Error");
+
             }
             app.UseStaticFiles();
 
@@ -59,11 +67,36 @@ namespace MyEshop
             app.UseAuthentication();
             app.UseAuthorization();
 
+            app.Use(async (context, next) =>
+            {
+                if (context.Request.Path.StartsWithSegments("/Admin"))
+                {
+                    if (!context.User.Identity.IsAuthenticated )
+                    {
+                        context.Response.Redirect("/Account/Login");
+                    }
+                    else if (!bool.Parse(context.User.FindFirstValue("IsAdmin")))
+                    {
+                        context.Response.Redirect("/Account/Login");
+                    }
+
+                    
+                }
+                await next.Invoke();
+            });
+
+            app.MapRazorPages();
+
+
             app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
+
+
         }
+
+
     }
 }

@@ -9,77 +9,121 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyEshop
 build_property.RootNamespace = MyEshop
-build_property.ProjectDir = D:\Projects\LearnAspNetCore\MyEshop\
+build_property.ProjectDir = D:\MyApplications\LearnAspNetCore\MyEshop\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Projects\LearnAspNetCore\MyEshop
+build_property.MSBuildProjectDirectory = D:\MyApplications\LearnAspNetCore\MyEshop
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Account/Login.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Admin/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Admin/ManageUsers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Admin/ManageUsers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Admin/ManageUsers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Admin/ManageUsers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Admin/ManageUsers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWFuYWdlVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Account/Register.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Account/SuccessRegister.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Account/SuccessRegister.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxTdWNjZXNzUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Components/ProductGroupsComponent.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Components/ProductGroupsComponent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcG9uZW50c1xQcm9kdWN0R3JvdXBzQ29tcG9uZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Home/ContactUs.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Home/Detail.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Home/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Home/Index.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Home/Privacy.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Home/ShowCart.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Home/ShowCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG93Q2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Product/ShowProductByGroup.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Product/ShowProductByGroup.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxTaG93UHJvZHVjdEJ5R3JvdXAuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Shared/Error.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Shared/_BoxProduct.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Shared/_BoxProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Cb3hQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Shared/_Groups.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Shared/_Groups.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Hcm91cHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/_ViewImports.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/_ViewStart.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/LearnAspNetCore/MyEshop/Views/Shared/_Layout.cshtml]
+[D:/MyApplications/LearnAspNetCore/MyEshop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tf8oqke80z

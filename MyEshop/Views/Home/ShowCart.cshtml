@@ -1,4 +1,5 @@
-﻿@model CartViewModel
+﻿@*@model CartViewModel*@
+@model Order
 @{
     ViewData["Title"] = "سبد خرید";
 }
@@ -16,15 +17,25 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var item in Model.CartItems)
+        @*@foreach (var item in Model.CartItems)*@
+        @foreach (var item in Model.OrderDetails)
         {
             <tr>
-                <td>@item.Item.Product.Name</td>
+                @*<td>@item.Item.Product.Name</td>
                 <td>@item.Quantity</td>
                 <td>@item.Item.Price</td>
-                <td><a asp-action="RemoveCart" asp-route-itemid="@item.Item.Id">حذف</a></td>
+                <td><a asp-action="RemoveCart" asp-route-itemid="@item.Item.Id">حذف</a></td>*@
+                <td>@item.Product.Name</td>
+                <td>@item.Count</td>
+                <td>@item.Price</td>
+                <td><a asp-action="RemoveCart" asp-route-detailId="@item.DetailId">حذف</a></td>
             </tr>
         }
     </tbody>
 </table>
-<div>جمع کل : <p>@Model.OrderTotal</p></div>
+@*<div>جمع کل : <p>@Model.OrderTotal</p></div>*@
+<div>جمع کل : <p>@Model.OrderDetails.Sum(s=>s.Count*s.Price)</p></div>
+
+                <div>
+                    <a class="btn btn-success" asp-action="Payment" asp-controller="Home" asp-route-id="@Model.OrderId"> پرداخت</a>
+                </div>

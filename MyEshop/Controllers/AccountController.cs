@@ -70,8 +70,9 @@ namespace MyEshop.Controllers
 
             var climes = new List<Claim>
             {
-             new Claim(ClaimTypes.NameIdentifier,user.UserId.ToString())    ,
-             new Claim(ClaimTypes.Name, user.Email)
+             new Claim(ClaimTypes.NameIdentifier,user.UserId.ToString()),
+             new Claim(ClaimTypes.Name, user.Email),
+             new Claim("IsAdmin", user.IsAdmin.ToString())
             };
 
             var identity = new ClaimsIdentity(climes, CookieAuthenticationDefaults.AuthenticationScheme);
@@ -87,10 +88,21 @@ namespace MyEshop.Controllers
 
 
 
-        public IActionResult Logout(){
+        public IActionResult Logout()
+        {
 
             HttpContext.SignOutAsync(CookieAuthenticationDefaults.AuthenticationScheme);
             return RedirectToAction("Login", "Account");
+        }
+
+        public IActionResult VerifyEmail(string email) 
+        {
+            if (_userRepository.IsExistsUserByEmail(email.ToLower()))
+            {                
+                return Json($"ایمیل {email} تکراری است");
+            }
+            return Json(true);
+
         }
     }
 }
